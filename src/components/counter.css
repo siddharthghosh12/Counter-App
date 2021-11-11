@@ -1,16 +1,7 @@
-.outerContainer {
-  width: 22vw;
-  height: 18vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-}
-
 .container {
-  width: 20vw;
-  height: 10vh;
   display: flex;
+  min-width: 20vw;
+  min-height: 10vh;
   background-color: #a54946;
   border: 2px solid #a54946;
   border-radius: 15px;
@@ -25,7 +16,7 @@
 
 #minus {
   color: #a54946;
-  flex: 1;
+  width: 33.33%;
   font-size: 3rem;
   border-right: 2px solid #a54946;
   display: flex;
@@ -40,7 +31,10 @@
   font-size: 2rem;
   color: #a54946;
   background-color: #f8e9e9;
-  width: 6vw;
+  display: flex;
+  justify-content: center;
+  width: 33.34%;
+  max-width: 33.34%;
   outline: none;
   border: none;
   text-align: center;
@@ -49,7 +43,7 @@
 
 #plus {
   color: white;
-  flex: 1;
+  width: 33.33%;
   font-size: 3rem;
   display: flex;
   justify-content: center;
