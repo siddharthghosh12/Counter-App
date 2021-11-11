@@ -1,0 +1,13 @@
+.displayCounter {
+  padding-left: 5%;
+  padding-top: 2%;
+  display: flex;
+  flex: 1;
+  align-self: flex-start;
+}
+
+.text {
+  font-weight: 500;
+  user-select: none;
+  font-size: 1rem;
+}
