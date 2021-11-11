@@ -2,6 +2,10 @@
 
 https://counter-app-siddharthghosh.netlify.app/
 
+# Video Demo of the App
+
+https://drive.google.com/file/d/1npiov9Oe9xS4nuInVtjUeYrmuX9rLua-/view
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
