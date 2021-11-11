@@ -4,7 +4,7 @@ import "./loader.css";
 const Loader = ({ message }) => {
   return (
     <div className="loadingcontainer">
-      <div className="lds-ring">
+      <div className="loader">
         <div></div>
         <div></div>
         <div></div>
